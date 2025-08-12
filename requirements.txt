@@ -1,0 +1,5 @@
+streamlit
+requests
+wikipedia
+python-dotenv
+datasets
