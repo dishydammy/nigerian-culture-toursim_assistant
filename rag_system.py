@@ -9,4 +9,4 @@ class NigerianTourismRAG:
 
     def query(self, q, n=3):
         # return related document chunks (placeholder)
-        return ["RAG not initialized yet."] 
+        return ["RAG not initialized yet."]
